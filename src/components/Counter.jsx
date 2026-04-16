@@ -15,6 +15,8 @@ function Counter() {
 
       <button onClick={()=> {if (count<50){setCount(count+5)}}}>Inc + 5</button>
       <button onClick ={()=>setCount(count-5)}>Dec - 5</button>
+      {/* <button  onClick={decrement} disabled={count ===0}>Button</button> */}
+      <button>Reset</button>
     </>
   );
 }
