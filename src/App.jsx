@@ -6,8 +6,8 @@ function App() {
   return (
     <>
     <Counter/>
-    <Child name = 'Supriya' />
-    <Child status = "React Learner" />
+    <Child name = "Supriya" status = "React Learner"  />
+    
     </>
   )
 }
