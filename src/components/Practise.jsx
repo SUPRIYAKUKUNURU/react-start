@@ -8,6 +8,7 @@ function Practise() {
     }
   return (
     <>
+
     {/* Hoisting in js moves all functions and variable declarations to the top of the scope */}
     {/* Always we should close the tag in react  */}
     <img src ="photo.jpg" alt ="photo" />
