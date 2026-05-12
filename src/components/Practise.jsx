@@ -11,6 +11,7 @@ function Practise() {
 
     {/* Hoisting in js moves all functions and variable declarations to the top of the scope */}
     {/* Always we should close the tag in react  */}
+    {/* Hello */}
     <img src ="photo.jpg" alt ="photo" />
     <h1>Hello {name} ...</h1>
     <label htmlFor='Name' value={name}>Name</label>
