@@ -22,6 +22,7 @@ function Practise() {
 
     <h1 style={{backgroundColor:"red" , color:"white"}}>Supriya</h1>
     <h1 style={style}>Kukunuru</h1>
+    <h2> Address :Hyderabad</h2>
     </>
   )
 }
