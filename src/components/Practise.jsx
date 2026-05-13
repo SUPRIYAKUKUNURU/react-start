@@ -24,6 +24,7 @@ function Practise() {
     <h1 style={style}>Kukunuru</h1>
     <h2> Address :Hyderabad</h2>
     <h3>Contact : 9874563210</h3>
+    <h3>Role : Frontned Developer</h3>
     </>
   )
 }
